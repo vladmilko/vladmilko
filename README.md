@@ -37,6 +37,9 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM, MongoDB, Mongoose
 - **И ещё немного**: Jest, REST
 
+### GitHub cтатистика:
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmilko&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/vladmilko)
+
 [whatsapp]: https://wa.me/79217700688
 [telegram]: https://t.me/vladmilko
 [instagram]: https://www.instagram.com/vlad_milko

@@ -34,7 +34,7 @@
 - **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk), Vue.js, HTML5, CSS3
 - **Бекенд**: Node.js, Express, Sessions, CORS, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM, MongoDB, Mongoose
-- **И ещё немного**: Jest, REST
+- **И ещё**: Jest, RTL
 
 [whatsapp]: https://wa.me/79217700688
 [telegram]: https://t.me/vladmilko
